@@ -1,0 +1,98 @@
+[
+    {
+        "flightNumber": "MH601",
+        "callsign": "MAS601",
+        "aircraftType": "B738",
+        "departure": "WMKK",
+        "destination": "WSSS",
+        "eobtUtc": 230,
+        "route": "PIVOB B466 VIDAS",
+        "cruisingAltitude": "FL250",
+        "fuelOnBoardKg": 5660,
+        "status": "Scheduled"
+    },
+    {
+        "flightNumber": "AK5112",
+        "callsign": "AXM5112",
+        "aircraftType": "A20N",
+        "departure": "WMKK",
+        "destination": "WBKK",
+        "eobtUtc": 315,
+        "route": "AGOSA M761 BRU",
+        "cruisingAltitude": "FL350",
+        "fuelOnBoardKg": 7200,
+        "status": "En-Route"
+    },
+    {
+        "flightNumber": "OD123",
+        "callsign": "MXD123",
+        "aircraftType": "B38M",
+        "departure": "WMSA",
+        "destination": "WMKP",
+        "eobtUtc": 400,
+        "route": "VPL B466 VBA",
+        "cruisingAltitude": "FL180",
+        "fuelOnBoardKg": 4100,
+        "status": "Boarding"
+    },
+    {
+        "flightNumber": "MH1",
+        "callsign": "MAS1",
+        "aircraftType": "A359",
+        "departure": "WMKK",
+        "destination": "EGLL",
+        "eobtUtc": 1515,
+        "route": "PEXIN L510 TIGER",
+        "cruisingAltitude": "FL330",
+        "fuelOnBoardKg": 85000,
+        "status": "Scheduled"
+    },
+    {
+        "flightNumber": "AK6102",
+        "callsign": "AXM6102",
+        "aircraftType": "A20N",
+        "departure": "WMKK",
+        "destination": "WMKC",
+        "eobtUtc": 545,
+        "route": "GOSBO Y501 KAKAT",
+        "cruisingAltitude": "FL210",
+        "fuelOnBoardKg": 4800,
+        "status": "Delayed"
+    },
+    {
+        "flightNumber": "FY2012",
+        "callsign": "FFM2012",
+        "aircraftType": "AT76",
+        "departure": "WMSA",
+        "destination": "WMKN",
+        "eobtUtc": 210,
+        "route": "VPL W401 VBA",
+        "cruisingAltitude": "FL120",
+        "fuelOnBoardKg": 1800,
+        "status": "Arrived"
+    },
+    {
+        "flightNumber": "SQ107",
+        "callsign": "SIA107",
+        "aircraftType": "A359",
+        "departure": "WMKK",
+        "destination": "WSSS",
+        "eobtUtc": 730,
+        "route": "PIVOB B466 VIDAS",
+        "cruisingAltitude": "FL240",
+        "fuelOnBoardKg": 6100,
+        "status": "Scheduled"
+    },
+    {
+        "flightNumber": "MH2522",
+        "callsign": "MAS2522",
+        "aircraftType": "B738",
+        "departure": "WMKK",
+        "destination": "WBGG",
+        "eobtUtc": 145,
+        "route": "KIMAT M754 GOCON",
+        "cruisingAltitude": "FL370",
+        "fuelOnBoardKg": 8200,
+        "status": "En-Route"
+    }
+]
